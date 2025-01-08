@@ -11,7 +11,7 @@ Performed exploratory data analysis (EDA) to understand the dataset.
 Applied principal component analysis (PCA) for dimensionality reduction and clustering to segment the data.
 Investigated pricing trends and their relationship to key features.
 
-Result: Delivered actionable insights that can aid in optimizing pricing strategies and understanding professional listing patterns.
+Result: Delivered actionable insights on optimizing pricing strategies and understanding professional listing patterns.
 
 **Spaceship Titanic: Classification**
   
