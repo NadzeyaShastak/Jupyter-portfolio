@@ -13,23 +13,24 @@ Investigated pricing trends and their relationship to key features.
 
 Result: Delivered actionable insights on optimizing pricing strategies and understanding professional listing patterns.
 
-**Spaceship Titanic: Classification**
+**Movie Recommendation System**
   
-Goal: Solve a classification problem on Kaggle using Python and Scikit-learn.
+Goal: Create Movie Recommendation system
 Approach:
 Implemented feature engineering and preprocessing techniques to enhance data quality.
-Applied various machine learning algorithms and optimized model performance
+Applied various machine learning algorithms and optimized model performance (xgboost, RandomizedSearchCV)
 
-Result: Achieved improved classification metrics on the test dataset, demonstrating effective model deployment.
+Result: Building an effective recommender system and identifying important features (MAPE 0.1829).
 
 **Air Quality: Pollution Analysis and Modeling (Under Development)**
+
 Objective: Analyze and predict air pollution levels using global air quality data
 
 Current Development Stages: 
-1. Data Collection and Analysis (Completed):
+1. Data Collection and Analysis:
 Utilized SQL queries and API requests to retrieve air quality data for multiple countries.
 Conducted extensive data cleaning and exploratory analysis to uncover pollution trends and regional variations.
 Visualized pollutant distributions to highlight key environmental patterns.
-2. Forecasting Models (Under Development):
+2. Forecasting Models:
 Developing predictive models to forecast pollutant concentrations over time.
 Exploring advanced techniques to improve forecasting accuracy and address data limitations.
